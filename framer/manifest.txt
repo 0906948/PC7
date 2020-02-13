@@ -68,10 +68,13 @@ node_modules/@framer/fhur.google-analytics/code/useScript.ts
 node_modules/@framer/fhur.google-analytics/code/gtag.ts
 node_modules/@framer/fhur.google-analytics/code/GoogleAnalyticsEvent.tsx
 node_modules/@framer/fhur.google-analytics/README.md
-design/images/t8dsdlbs1X9iYFKYaGxzKuh1E.png
+design/images/jcFKMrOuo0vJIZn4adZaBICI4.png
 design/images/idIDKO32iTDessrUzZjpIWZBizE.png
-design/images/N34yzWoRtJT6YuWJJZZzJ4Jx8.png
+design/images/Y6IzLMUZV3cTQ1ueOrRSMyKgQY.png
+design/images/Tbt0kSlgqqWW7sFvzQ44eY5MeaY.png
+design/images/Q0IxeDZa05eIXs7KMdm5vuYDSM.png
 design/images/CgveKBlfs11VQK6EWuhMvE31c.png
+design/images/1W2eYe8kBlplcMVkqhRFTSbvjZY.png
 design/assets/BERNHC.TTF
 build/vendors.js
 build/framer.js
