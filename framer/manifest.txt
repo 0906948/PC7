@@ -51,6 +51,14 @@ node_modules/@framer/jordanframer.font-files/code/canvas.tsx
 node_modules/@framer/jordanframer.font-files/code/Loader.tsx
 node_modules/@framer/jordanframer.font-files/code/File.tsx
 node_modules/@framer/jordanframer.font-files/README.md
+node_modules/@framer/gaearon.delay/tsconfig.json
+node_modules/@framer/gaearon.delay/package.json
+node_modules/@framer/gaearon.delay/metadata/icon.png
+node_modules/@framer/gaearon.delay/metadata/artwork.png
+node_modules/@framer/gaearon.delay/design/document.json
+node_modules/@framer/gaearon.delay/code/Delay.tsx
+node_modules/@framer/gaearon.delay/build/index.js
+node_modules/@framer/gaearon.delay/README.md
 node_modules/@framer/fhur.google-analytics/tsconfig.json
 node_modules/@framer/fhur.google-analytics/package.json
 node_modules/@framer/fhur.google-analytics/metadata/icon.png
